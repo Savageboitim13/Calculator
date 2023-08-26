@@ -1,2 +1,2 @@
 # Calculator
-C# calculator - learning purpose.
+C# Windows Forms Calculator - learning purpose.
