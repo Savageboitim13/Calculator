@@ -1,0 +1,10 @@
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Venen Jean\Documents\Git\C#\Calculator\obj\Debug\Calculator.Form1.resources
